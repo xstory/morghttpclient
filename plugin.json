@@ -1,1 +1,13 @@
-
+[
+  {
+    "internalName": "morghttpclient-1.0-SNAPSHOT",
+    "hash": "ca9ddd3a14a1b6033eb6a59da6465f5f72d47af351f6ce0a13d3ee40fb5b38ea",
+    "size": 2221,
+    "plugins": [
+      "com.morghttpclient"
+    ],
+    "displayName": "Morghttpclient",
+    "description": "",
+    "provider": "morg"
+  }
+]
