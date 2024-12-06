@@ -4,7 +4,7 @@
     "hash": "9bef9d460fab93104accc89da77e31de0481e53f",
     "size": 13300,
     "plugins": [
-      "com.morghttpclient"
+      "ca.arnah.runelite.morghttpclient"
     ],
     "displayName": "Morghttpclient",
     "description": "",
