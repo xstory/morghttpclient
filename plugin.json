@@ -8,6 +8,6 @@
     ],
     "displayName": "Morghttpclient",
     "description": "",
-    "provider": "morg"
+    "provider": "morghttpclient"
   }
 ]
