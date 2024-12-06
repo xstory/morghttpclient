@@ -2,7 +2,7 @@
   {
     "internalName": "morghttpclient-1.0-SNAPSHOT",
     "hash": "9bef9d460fab93104accc89da77e31de0481e53f",
-    "size": 2221,
+    "size": 13300,
     "plugins": [
       "com.morghttpclient"
     ],
